@@ -11,7 +11,6 @@ This project is a **Loan Origination System (LOS)** designed to handle loan appl
 
 ```bash
 git clone https://github.com/Ladycoderr/loan-origination-system.git
-cd loan-origination-system
 ```
 ## 🚀 Technologies Used
 
