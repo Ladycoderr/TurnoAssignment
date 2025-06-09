@@ -3,9 +3,9 @@ This project is a **Loan Origination System (LOS)** designed to handle loan appl
 
 ### Prerequisites
 
-- Java 17+
+- Java 17
 - Maven
-- PostgreSQL/MySQL
+- MySQL
 
 ### 1. Clone the Repository
 
@@ -18,12 +18,11 @@ cd loan-origination-system
 - Java 17
 - Spring Boot
 - Spring Data JPA
-- PostgreSQL (or MySQL)
+- MySQL
 - Hibernate
 - Maven
 - Lombok
-- JUnit 5 + Mockito
-- Postman (for API testing)
+- Postman
 
   
 API COLLECTION LINK : https://api.postman.com/collections/29708201-e30ab7d3-b1ca-47ba-ab11-da59910f9163?access_key=PMAT-01JXAXCABVJQTFG9TV1ZQT5PH9
